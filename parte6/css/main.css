@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+.mag{
+	background-color: #ee3e64;
+}
+.celeste{
+	background-color: #3a81ba;
+	left: 200px;
+	position: absolute;
+}
+.green{
+	background-color: #b7d84b;
+}
+.yellow{
+	background-color: #ffff00;
+}
